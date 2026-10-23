@@ -2,6 +2,7 @@
 layout: post
 title: My First Post
 date: 2026-10-23
+description: Starting the journey...
 ---
 
 Hi There!
