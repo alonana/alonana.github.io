@@ -3,6 +3,7 @@ layout: post
 title: My First Post
 date: 2026-10-23
 description: Starting my biology journey with a Swift SW350T microscope and a first look at insect anatomy and plant cells.
+excerpt: Starting my biology journey with a Swift SW350T microscope and a first look at insect anatomy and plant cells.
 ---
 
 Hi there!
@@ -24,7 +25,7 @@ My first impression was that it felt a bit like a toy. It's advanced optical equ
 
 The trinocular setup means I can look through the eyepieces and take pictures through the camera mounted above them.
 
-![Swift SW350T microscope on a desk, with a Swiftcam mounted above the eyepieces, a laptop to the left, and a microscope image on the monitor behind it.]({{ '/assets/images/first-post/microscope-setup.jpeg' | relative_url }})
+![Swift SW350T microscope on a desk, with a Swiftcam mounted above the eyepieces, a laptop to the left, and a microscope image on the monitor behind it.]({{ '/assets/images/2026-10-23/microscope-setup.jpeg' | relative_url }})
 
 *The setup from the outside: a slide sits on the illuminated stage, the camera is mounted on the vertical port, and the monitor behind the microscope shows the claw-like structure pictured below.*
 
@@ -34,7 +35,7 @@ I started with the sample slides that came with the microscope. Here are four sc
 
 ### A jointed appendage and a tiny claw
 
-![Amber-colored insect appendage with several connected segments, fine bristles, and a dark curved claw at the tip.]({{ '/assets/images/first-post/insect-appendage.png' | relative_url }})
+![Amber-colored insect appendage with several connected segments, fine bristles, and a dark curved claw at the tip.]({{ '/assets/images/2026-10-23/insect-appendage.png' | relative_url }})
 
 In the first image, I can make out what appears to be part of an insect leg. Amber-colored segments lead down to a dark, curved claw at the bottom. Tiny subject, dramatic footwear.
 
@@ -42,19 +43,19 @@ Fine bristles line the segments, with a denser row of longer bristles across the
 
 ### 🌱 Plant cells: the wider view
 
-![A broad field of turquoise-green plant tissue with rows of elongated cells outlined by dark cell walls.]({{ '/assets/images/first-post/plant-cells-overview.png' | relative_url }})
+![A broad field of turquoise-green plant tissue with rows of elongated cells outlined by dark cell walls.]({{ '/assets/images/2026-10-23/plant-cells-overview.png' | relative_url }})
 
 In this wider view, I can follow rows of long plant cells across the turquoise-green tissue. Their dark walls mark out adjoining compartments. Most run roughly from top to bottom, with a darker, denser band on the left.
 
 ### A closer look at the cell walls
 
-![Closer view of elongated green plant cells, with prominent dark boundaries and tapered ends where neighboring cells meet.]({{ '/assets/images/first-post/plant-cells-detail.png' | relative_url }})
+![Closer view of elongated green plant cells, with prominent dark boundaries and tapered ends where neighboring cells meet.]({{ '/assets/images/2026-10-23/plant-cells-detail.png' | relative_url }})
 
 Here, fewer cells fill the frame, making their long sides, tapered ends, and shared walls easier to follow. There's a narrow strip on the left that looks folded, while the cells on the right are softer in focus.
 
 ### Inside the cell outlines
 
-![Close-up of green plant cells with thick-looking dark boundaries and a rounded darker patch inside a cell on the right.]({{ '/assets/images/first-post/plant-cells-closeup.png' | relative_url }})
+![Close-up of green plant cells with thick-looking dark boundaries and a rounded darker patch inside a cell on the right.]({{ '/assets/images/2026-10-23/plant-cells-closeup.png' | relative_url }})
 
 In the last image, I can see just a few cells, with dark walls around pale green interiors. There's a rounded, darker patch inside the cell on the right. Could it be a nucleus? Possibly, but I can't identify it confidently from this image alone.
 
