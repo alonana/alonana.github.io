@@ -36,12 +36,15 @@ Now that the Swift software is calibrated, I took a new sample, and took some ne
 Notice the cell in the middle here.
 I saw it moving around in 3D.
 As it has a plate like shape, when it rotates it gets thin.
+
 ![calibrate image]({{ '/assets/images/2026-10-26/a.png' | relative_url }})
 
 
 This looks like an array of algae cells.
+
 ![calibrate image]({{ '/assets/images/2026-10-26/b.png' | relative_url }})
 
 I have no idea what is this.
 It reminds me of bacteria cells, but they are green and do not move.
+
 ![calibrate image]({{ '/assets/images/2026-10-26/c.png' | relative_url }})
