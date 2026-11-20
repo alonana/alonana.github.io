@@ -16,19 +16,15 @@ The difference was clear: the more sugar, the less life activity I could see.
 
 No worms in any of them. That was a bit of a surprise.
 
-# New shapes ☕
+I also saw these huge cells. Maybe protozoa? I am not sure which kind.
 
-But in the second and third tubes I saw something new that I did not meet so far:
-clusters of cells, and cells that look like coffee beans.
-Sugar and coffee, apparently.
+![Large cell with visible inner structures]({{ '/assets/images/2026-11-20/large-cell.png' | relative_url }})
 
-These are the coffee bean like cells:
+![Another view of a large cell]({{ '/assets/images/2026-11-20/large-cell-second-view.png' | relative_url }})
 
-![Coffee bean shaped cell]({{ '/assets/images/2026-11-20/coffee-bean-shaped-cell.png' | relative_url }})
+# New clusters 🔬
 
-![Another view of a coffee bean shaped cell]({{ '/assets/images/2026-11-20/coffee-bean-shaped-cell-side-view.png' | relative_url }})
-
-And some clusters:
+In the second and third tubes I saw something new that I did not meet so far: clusters of cells.
 
 ![Small cluster of green cells]({{ '/assets/images/2026-11-20/small-green-cell-cluster.png' | relative_url }})
 
